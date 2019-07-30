@@ -2,3 +2,4 @@ Hello World!
 Change Test One
 Smart Commit Test One
 Branch Commit Test One
+Branch Commit Two
