@@ -1,3 +1,4 @@
 Hello World!
 Change Test One
 Smart Commit Test One
+Test trigger
