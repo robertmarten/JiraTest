@@ -2,3 +2,4 @@ Hello World!
 Change Test One
 Smart Commit Test One
 Test trigger 2
+Test Trogger 3
