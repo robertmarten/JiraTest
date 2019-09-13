@@ -5,3 +5,4 @@ Branch Commit Test One
 Branch Commit Two
 Direct Commit One
 Direct two
+Guide One
