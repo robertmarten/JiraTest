@@ -3,3 +3,4 @@ Change Test One
 Smart Commit Test One
 Branch Commit Test One
 Branch Commit Two
+Direct Commit One
